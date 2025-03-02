@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "To Be Professional！To Be a Legendary！"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,9 +20,9 @@ In recent years, I have been involved in **big data supply chain operation proje
 I have received several honors and awards, including **First Prize in the National Graduate Mathematical Modeling Competition** and the **Ph.D. National Scholarship**.
 
 ### Education  
-- **Ph.D.**, Nanjing University  
-- **Master**, Nanjing University of Finance and Economics  
-- **Bachelor**, Nanjing University of Finance and Economics  
+- **Ph.D.**, 2017.09.01-2021.03.10, Nanjing University  
+- **Master**, 2014.08.31-2017.03.27, Nanjing University of Finance and Economics  
+- **Bachelor**, 2010.09.01-2014.06.20, Nanjing University of Finance and Economics  
 
 ### Contact  
 [Email](mailto:yypeng@sribd.cn) / [Personal Website](https://sites.google.com/view/yangyangpeng/home)  
@@ -30,7 +30,7 @@ I have received several honors and awards, including **First Prize in the Nation
 ---
 
 ### Research Interests  
-- **Operations Research of Supply Chain**  
+- **Supply Chain Management**  
 - **Data-Driven Operations Management**  
 - **Cooperative and Non-Cooperative Game Analysis**  
 
