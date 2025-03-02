@@ -25,10 +25,10 @@ I have received several honors and awards, including **First Prize in the Nation
 - **Bachelor**, 2010.09.01-2014.06.20, Nanjing University of Finance and Economics  
 
 ### Contact  
-[Email](mailto:yypeng@sribd.cn) 
+[Email](mailto:yypeng@sribd.cn)  
 [Personal Website](https://www.sribd.cn/en/teacher/974)  
 [GitHub](https://github.com/youngpyy)
----
+
 
 ### Research Interests  
 - **Supply Chain Management**  
