@@ -41,6 +41,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  github           : "https://github.com/youngpyy"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -333,7 +334,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
- "https://github.com/youngpyy"
+ https://github.com/youngpyy
 # jekyll-archives:
 #   enabled:
 #     - categories
