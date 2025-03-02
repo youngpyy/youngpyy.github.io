@@ -14,7 +14,7 @@ title                    : "Yangyang Peng (Young)
 title_separator          : "-"
 name                     : &name "Yangyang Peng (Young) 彭洋洋"
 description              : &description "personal description"
-url                      : https://youngpyy.github.io # the base hostname & protocol for your site e.g. "https://youngpyy.github.io"
+url                      : "https://youngpyy.github.io" # the base hostname & protocol for your site e.g. "https://youngpyy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngpyy/youngpyy.github.io"
 
@@ -27,7 +27,7 @@ author:
   name             : "Yangyang Peng (Young) 彭洋洋"
   pronouns         : # example: "she/her"  
   bio              : "To Be Professional"
-  location         : "Shenzhen China"
+  location         : "Shenzhen, China"
   employer         : "SRIBD"
   uri              : # URL
   email            : "yypeng@sribd.cn" 
@@ -41,13 +41,13 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  github           : "https://github.com/youngpyy"
+  github           : "youngpyy/youngpyy.github.io"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/youngpyy"
+  github           : "youngpyy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -334,7 +334,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
- https://github.com/youngpyy
+# https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
 #     - categories
