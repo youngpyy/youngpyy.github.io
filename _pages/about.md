@@ -9,8 +9,6 @@ redirect_from:
 
 ## About Me
 
-
-  
 I am **Peng Yangyang (Young)**, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research of Supply Chain, Data-Driven Operations Management, and Cooperative and Non-Cooperative Game Analysis**.
 
 Prior to joining SRIBD, I worked as a **Postdoctoral Researcher** at **The Chinese University of Hong Kong, Shenzhen**. My work involves **supply chain optimization, game-theoretic analysis, and data-driven decision-making**. I have published over **ten papers** in **SSCI/SCI/SCCSI** journals, such as *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
