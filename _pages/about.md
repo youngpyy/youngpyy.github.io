@@ -9,15 +9,19 @@ redirect_from:
 
 ## About Me
 
-I am **Peng Yangyang (Young)**, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research of Supply Chain, Data-Driven Operations Management, and Cooperative and Non-Cooperative Game Analysis**.
+<div class="justify">
+I am **Peng Yangyang (Young)**, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research in Supply Chains, Data-Driven Operations Management, and Game Theory (Cooperative & Non-Cooperative Analysis)**.
 
-Prior to joining SRIBD, I worked as a **Postdoctoral Researcher** at **The Chinese University of Hong Kong, Shenzhen**. My work involves **supply chain optimization, game-theoretic analysis, and data-driven decision-making**. I have published over **ten papers** in **SSCI/SCI/SCCSI** journals, such as *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
+Prior to joining SRIBD, I was a **Postdoctoral Researcher** at **The Chinese University of Hong Kong, Shenzhen**, focusing on **supply chain optimization, game-theoretic analysis, and data-driven decision-making**. I have published over **ten papers** in **SCI/SSCI** journals, including *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
 
-I have been the **Principal Investigator** for projects funded by the **China Postdoctoral Science Foundation** and the **Guangdong Province Joint Fund for Youth**, and I have also participated in several **National Natural Science Foundation of China** projects. Additionally, I serve as a **reviewer** for journals such as *Journal of Intelligent Manufacturing* and have industry consulting experience in **operations and supply chain management** at **Polyrock Operations Management Co., Ltd.**.
+I have led projects funded by the **China Postdoctoral Science Foundation** and the **Guangdong Province Joint Fund for Youth**, and have also participated in several **National Natural Science Foundation of China (NSFC)** projects. Additionally, I serve as a **reviewer** for journals such as *Journal of Intelligent Manufacturing* and have industry consulting experience in **operations and supply chain management** at **Polyrock Operations Management Co., Ltd.**.
 
-In recent years, I have been involved in **big data supply chain operation projects** for enterprises and institutions, including **State Grid, Huaneng Group, Huawei, China General Nuclear Power Group, Guangzhou Railway Corporation, Whale Cloud Technology, Wuhan Tobacco Group, and Red Cross Blood Center**.
+In recent years, I have contributed to **big data-driven supply chain operation projects** for major enterprises, including **State Grid, Huaneng Group, Huawei, China General Nuclear Power Group, Guangzhou Railway Corporation, Whale Cloud Technology, Wuhan Tobacco Group, and Red Cross Blood Center**.
+</div>
 
-I have received several honors and awards, including **First Prize in the National Graduate Mathematical Modeling Competition** and the **Ph.D. National Scholarship**.
+### Honors & Awards  
+- **First Prize**, National Graduate Mathematical Modeling Competition  
+- **Ph.D. National Scholarship**, China 
 
 
 ### Education  
