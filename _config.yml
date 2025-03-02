@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yangyang Peng (Young) 彭洋洋/ Site Title"
+title                    : "Yangyang Peng (Young) 
+                            彭洋洋"
 title_separator          : "-"
 name                     : &name "Yangyang Peng (Young) 彭洋洋"
 description              : &description "personal description"
@@ -25,9 +26,10 @@ author:
   avatar           : "profile_pyy.png"
   name             : "Yangyang Peng (Young) 彭洋洋"
   pronouns         : # example: "she/her"  
-  bio              : "To Be Professional！To Be a Legendary！"
+  bio              : "To Be Professional！
+                      To Be a Legendary！"
   location         : "Shenzhen China"
-  employer         : "Shenzhen Research Institute of Big Data"
+  employer         : "SRIBD"
   uri              : # URL
   email            : "yypeng@sribd.cn" 
 
