@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "To Be Professional"
   location         : "Shenzhen, China"
-  SRIBD            : "https://www.sribd.cn/en/page/59" #employer
+  employer         : SRIBD "https://www.sribd.cn/en/page/59" 
   uri              : # URL
   email            : "yypeng@sribd.cn" 
 
