@@ -7,7 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## About Me
+
+I am **Peng Yangyang (Young)**, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research of Supply Chain, Data-Driven Operations Management, and Cooperative and Non-Cooperative Game Analysis**.
+
+Prior to joining SRIBD, I worked as a **Postdoctoral Researcher** at **The Chinese University of Hong Kong, Shenzhen**. My work involves **supply chain optimization, game-theoretic analysis, and data-driven decision-making**. I have published over **ten papers** in **SSCI/SCI/SCCSI** journals, such as *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
+
+I have been the **Principal Investigator** for projects funded by the **China Postdoctoral Science Foundation** and the **Guangdong Province Joint Fund for Youth**, and I have also participated in several **National Natural Science Foundation of China** projects. Additionally, I serve as a **reviewer** for journals such as *Journal of Intelligent Manufacturing* and have industry consulting experience in **operations and supply chain management** at **Polyrock Operations Management Co., Ltd.**.
+
+In recent years, I have been involved in **big data supply chain operation projects** for enterprises and institutions, including **State Grid, Huaneng Group, Huawei, China General Nuclear Power Group, Guangzhou Railway Corporation, Whale Cloud Technology, Wuhan Tobacco Group, and Red Cross Blood Center**.
+
+I have received several honors and awards, including **First Prize in the National Graduate Mathematical Modeling Competition** and the **Ph.D. National Scholarship**.
+
+### Education  
+- **Ph.D.**, Nanjing University  
+- **Master**, Nanjing University of Finance and Economics  
+- **Bachelor**, Nanjing University of Finance and Economics  
+
+### Contact  
+[Email](mailto:yypeng@sribd.cn) / [Personal Website](https://sites.google.com/view/yangyangpeng/home)  
+
+---
+
+### Research Interests  
+- **Operations Research of Supply Chain**  
+- **Data-Driven Operations Management**  
+- **Cooperative and Non-Cooperative Game Analysis**  
+
+
 
 A data-driven personal website
 ======
