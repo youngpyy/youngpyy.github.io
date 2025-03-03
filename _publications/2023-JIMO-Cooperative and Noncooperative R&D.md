@@ -1,4 +1,3 @@
-
 ---
 title: "Cooperative and Noncooperative R&D in Duopoly Manufacturers with a Common Supplier"
 collection: publications
