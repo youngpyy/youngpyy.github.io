@@ -6,7 +6,7 @@ permalink: /publication/2025-ITOR-Downstream firms equity financing
 excerpt: "This paper investigates a supply chain where a downstream firm raises capital through equity financing for capacity expansion, considering both external and internal equity financing models."
 date: 2025-01-01
 venue: "International Transactions in Operational Research"
-paperurl: "https://doi.org/10.1111/itor.13357"
+paperurl: 'http://youngpyy.github.io/files/2025-ITOR-Downstream firms equity financing.pdf'
 citation: "Fu, H., Xu, S., Guan, L., Peng, Y., & Zhang, L. (2025). Downstream firm’s equity financing for capacity expansion in a supply chain. <i>International Transactions in Operational Research</i>, 32, 1751–1791. https://doi.org/10.1111/itor.13357"
 authors: "Hong Fu, Shuo Xu, Lei Guan, Yangyang Peng, Lianmin Zhang"
 ---
