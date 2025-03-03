@@ -7,7 +7,7 @@ excerpt: "This paper studies the strategic R&D decisions of duopoly manufacturer
 date: 2023-05-01
 venue: "Journal of Industrial and Management Optimization"
 slidesurl: 'http://youngpyy.github.io/files/Slides-Cooperative and Noncooperative R&D.pdf'
-paperurl: "https://doi.org/10.3934/jimo.2022085"
+paperurl: "http://youngpyy.github.io/files/2023-JIMO-Cooperative and Noncooperative R&D.pdf)"
 citation: "Zhang, F., Peng, Y., Xu, X., Yin, X., & Zhang, L. (2023). Cooperative and Noncooperative R&D in Duopoly Manufacturers with a Common Supplier. <i>Journal of Industrial and Management Optimization</i>, 19(5), 3230–3254. https://doi.org/10.3934/jimo.2022085"
 authors: "Fuli Zhang, Yangyang Peng, Xiaolin Xu, Xing Yin, Lianmin Zhang"
 ---
