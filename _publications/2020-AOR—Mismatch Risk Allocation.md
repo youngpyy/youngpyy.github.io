@@ -7,7 +7,7 @@ excerpt: "This paper analyzes mismatch risk allocation in a coproduct supply cha
 date: 2020-01-01
 venue: "Annals of Operations Research"
 slidesurl: 'http://youngpyy.github.io/files/Slides-Mismatch Risk allocation-Pre.pdf'
-paperurl: "http://youngpyy.github.io/files/2020-AOR—Mismatch Risk Allocation.pdf"
+paperurl: 'http://youngpyy.github.io/files/2020-AOR—Mismatch Risk Allocation.pdf'
 citation: "Peng, Y., Xu, X., Liang, X., & Xue, W. (2020). Mismatch risk allocation in a coproduct supply chain. <i>Annals of Operations Research</i>, 291, 707–730. https://doi.org/10.1007/s10479-018-3049-y"
 authors: "Yangyang Peng, Xiaolin Xu, Xue Liang, Weili Xue"
 ---
