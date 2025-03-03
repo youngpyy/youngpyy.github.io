@@ -7,5 +7,7 @@ excerpt: "This paper studies revenue management strategies on user-generated con
 date: 2025-01-01
 venue: "Journal of Operations Management (Under Review)"
 authors: "Run Tang, Zhengyang Wang, Yangyang Peng, Ziyuan Zeng, Tong Zhang"
+citation: "Tang, R., Wang, Z., Peng, Y., Zeng, Z., & Zhang, T. (2025). When Engagement Performs Better: Revenue Management on User-Generated Content Platforms. <i>Journal of Operations Management</i> (Under Review)."
 status: "Under Review"
+
 ---
