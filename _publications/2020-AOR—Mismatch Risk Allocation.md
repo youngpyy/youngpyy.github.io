@@ -1,5 +1,5 @@
 ---
-title: "Mismatch risk allocation in a coproduct supply chain"
+title: "Mismatch Risk Allocation in a Coproduct Supply Chain"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-AOR—Mismatch Risk Allocation
