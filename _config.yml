@@ -9,10 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yangyang Peng (Young) 
-                            彭洋洋"
+title                    : "PANG Yeung Yeung"
 title_separator          : "-"
-name                     : &name "Yangyang Peng (Young) 彭洋洋"
+name                     : &name "PANG Yeung Yeung"
 description              : &description "personal description"
 url                      : "https://youngpyy.github.io" # the base hostname & protocol for your site e.g. "https://youngpyy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +23,7 @@ repository               : "youngpyy/youngpyy.github.io"
 author:
   # Biographic information
   avatar           : "profile_pyy.png"
-  name             : "Yangyang Peng (Young) 彭洋洋"
+  name             : "PANG Yeung Yeung"
   pronouns         : # example: "she/her"  
   bio              : "To Be Professional"
   location         : "Shenzhen, China"
