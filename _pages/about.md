@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "To Be Professional！To Be a Legendary！"
+title: "To Be Professional！"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
   
-I am **Peng Yangyang (Young)**, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research in Supply Chains, Data-Driven Operations Management, and Game Theory (Cooperative & Non-Cooperative Analysis)**.
+I am **PANG Yeung Yeung (Young)**, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research in Supply Chains, Data-Driven Operations Management, and Game Theory (Cooperative & Non-Cooperative Analysis)**.
 
 Prior to joining SRIBD, I was a **Postdoctoral Researcher** at **The Chinese University of Hong Kong, Shenzhen**, focusing on **supply chain optimization, game-theoretic analysis, and data-driven decision-making**. I have published over **ten papers** in **SCI/SSCI** journals, including *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
 
