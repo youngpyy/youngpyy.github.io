@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "PANG Yeung Yeung"
+title                    : "Young Peng"
 title_separator          : "-"
-name                     : &name "PANG Yeung Yeung"
+name                     : &name "Young Peng"
 description              : &description "personal description"
 url                      : "https://youngpyy.github.io" # the base hostname & protocol for your site e.g. "https://youngpyy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
