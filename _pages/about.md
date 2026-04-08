@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
   
-I am **Young Peng, a **Research Scientist** at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on **Operations Research in Supply Chains, Data-Driven Operations Management, and Game Theory (Cooperative & Non-Cooperative Analysis)**.
+I am Young Peng, a research scientist (associate professor) at the Shenzhen Research Institute of Big Data (SRIBD). My research focuses on operations research in supply chain, data-driven operations management, and game theory (cooperative & non-cooperative analysis).
 
-Prior to joining SRIBD, I was a **Postdoctoral Researcher** at **The Chinese University of Hong Kong, Shenzhen**, focusing on **supply chain optimization, game-theoretic analysis, and data-driven decision-making**. I have published over **ten papers** in **SCI/SSCI** journals, including *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
+Prior to joining SRIBD, I was a postdoctoral researcher at The Chinese University of Hong Kong, Shenzhen, focusing on supply chain optimization, game-theoretic analysis, and data-driven decision-making. I have published over **ten papers** in **SCI/SSCI** journals, including *Annals of Operations Research*, *Journal of Industrial and Management Optimization*, and *International Transactions in Operational Research*.
 
 I have led projects funded by the **China Postdoctoral Science Foundation** and the **Guangdong Province Joint Fund for Youth**, and have also participated in several **National Natural Science Foundation of China (NSFC)** projects. Additionally, I serve as a **reviewer** for journals such as *Journal of Intelligent Manufacturing* and have industry consulting experience in **operations and supply chain management** at **Polyrock Operations Management Co., Ltd.**.
 
