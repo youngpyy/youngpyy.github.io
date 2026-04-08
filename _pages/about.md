@@ -36,7 +36,9 @@ In recent years, I have contributed to **big data-driven supply chain operation 
 ### Research Interests  
 - **Supply Chain Management**  
 - **Data-Driven Operations Management**  
-- **Cooperative and Non-Cooperative Game Analysis**  
+- **Cooperative and Non-Cooperative Game Analysis**
+- **Revenue Management**
+- **AI+OR Management**  
 
 
 
