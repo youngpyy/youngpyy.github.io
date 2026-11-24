@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-
+<div markdown="1" lang="en" style="text-align: justify;">
 I am **Young Peng** (Yangyang Peng in academic publications), a Research Scientist at the **Shenzhen Research Institute of Big Data (SRIBD)**. My research focuses on supply chain optimization, data-driven operations management, and cooperative and noncooperative game theory. I am particularly interested in how organizations coordinate decisions, allocate risk, and sustain cooperation under uncertainty.
 
 I received my PhD from **Nanjing University** and subsequently conducted postdoctoral research at **The Chinese University of Hong Kong, Shenzhen**. My research has appeared in journals including *Annals of Operations Research*, *International Transactions in Operational Research*, *Journal of Industrial and Management Optimization*, and *IEEE Transactions on Engineering Management*.
@@ -18,7 +18,7 @@ I have served as principal investigator on projects supported by the **China Pos
 Alongside my theoretical research, I have contributed to industry projects involving **Huawei**, **China General Nuclear Power Group**, **Huaneng Group**, and **China Mobile**, as well as projects in railway logistics. This work has addressed demand forecasting, spare-parts inventory optimization, scheduling, and resource allocation. These collaborations inform my research by bringing operational constraints and implementation requirements into the development of analytical models.
 
 My professional experience also includes operations and supply chain consulting at **Polyrock Operations Management Co., Ltd.**, public-sector advisory work in artificial intelligence and big data, and teaching. Across research, consulting, and education, I seek to connect methodological advances with the decisions organizations face in practice. I welcome collaborations that combine analytical depth with a clear understanding of operational needs.
-
+</div>
 
 ### Honors & Awards  
 - **First Prize**, National Graduate Mathematical Modeling Competition  
