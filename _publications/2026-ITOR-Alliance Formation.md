@@ -2,13 +2,13 @@
 title: "Alliance Formation in a Coproduct Supply Chain"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-ITOR—Alliance Formation
+permalink: /publication/2026-ITOR-Alliance Formation
 excerpt: "This paper investigates how heterogeneous retailers in a coproduct supply chain strategically form procurement alliances to manage trade‐offs between bargaining power and mismatch risk, as the market volatility escalates the mismatch ratio."
 date: 2026-04-01
 venue: "International Transactions in Operational Research"
 slidesurl: 'http://youngpyy.github.io/files/Slides-Alliance Formation.pdf'
-paperurl: 'http://youngpyy.github.io/files/2026-ITOR—Alliance Formation.pdf'
-citation: "Peng, Y., Cai, X., Xu, X., Yang, W., & Zhang, L. (2026). Alliance formation in a coproduct supply chain.  <i>International Transactions in Operational Research</i>.  https://doi.org/10.1111/itor.70190"
+paperurl: 'http://youngpyy.github.io/files/2026-ITOR-Alliance Formation.pdf'
+citation: "Peng, Y., Cai, X., Xu, X., Yang, W., & Zhang, L. (2026). Alliance Formation in a Coproduct Supply Chain.  <i>International Transactions in Operational Research</i>.  https://doi.org/10.1111/itor.70190"
 authors: "Yangyang Peng, Xiaoqiang Cai, Xiaolin Xu, Wei Yang, Lianmin Zhang"
 ---
 
