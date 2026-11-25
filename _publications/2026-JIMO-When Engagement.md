@@ -8,7 +8,7 @@ date: 2026-04-01
 venue: "Journal of Industrial and Management Optimization"
 slidesurl: 'http://youngpyy.github.io/files/Slides-Alliance Formation.pdf'
 paperurl: 'http://youngpyy.github.io/files/2026-JIMO-When Engagement.pdf'
-citation: "Tang, R., Wang, Z., Peng, Y., Zeng, Z., Zhang, T., & Shen, Y. (2026). When Engagement Performs Better: Revenue Management on User-generated Content Platforms. <i>Journal of Industrial and Management Optimization</i>. ,22(1): 282-309  https://doi.org/10.3934/jimo.2026011"
+citation: "Tang, R., Wang, Z., Peng, Y., Zeng, Z., Zhang, T., & Shen, Y. (2026). When Engagement Performs Better: Revenue Management on User-generated Content Platforms. <i>Journal of Industrial and Management Optimization</i>, 22(1): 282-309  https://doi.org/10.3934/jimo.2026011"
 authors: "Run Tang, Zhengyang Wang, Yangyang Peng, Ziyuan Zeng, Tong Zhang, Yingjun Shen"
 ---
 
