@@ -8,8 +8,8 @@ date: 2026-04-01
 venue: "Decision Sciences"
 slidesurl: 'http://youngpyy.github.io/files/Slides-Alliance Formation.pdf'
 paperurl: 'http://youngpyy.github.io/files/2026-DS-The Nudge and Sludge Effects.pdf'
-citation: "Yangyang Peng, Yinjun Shen. (2026). The Nudge and Sludge Effects of Live Streaming on Omnichannel Operations . <i>Decision Sciences</i>. https://doi.org/10.311"
-authors: " Yangyang Peng, Yinjun Shen"
+citation: "Yangyang Peng, Yingjun Shen. (2026). The Nudge and Sludge Effects of Live Streaming on Omnichannel Operations . <i>Decision Sciences</i>. https://doi.org/10.311"
+authors: " Yangyang Peng, Yingjun Shen"
 ---
 
 The impact of referenc
