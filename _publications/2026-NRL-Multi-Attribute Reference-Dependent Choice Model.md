@@ -1,7 +1,7 @@
 ---
 title: "Quality and Price Optimization Under a Multi-Attribute Reference-Dependent Choice Model"
 collection: publications
-category: Working Papers
+category: working papers
 permalink: /publication/2026-NRL-Multi-Attribute Reference-Dependent Choice Model
 excerpt: "This study investigates a firm’s product quality and pricing optimization problem under a common price cap when considering the multi-attribute reference effect in consumer choice behavior."
 date: 2026-04-01
