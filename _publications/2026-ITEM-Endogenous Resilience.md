@@ -8,7 +8,7 @@ date: 2026-07-02
 venue: "IEEE Transactions on Engineering Management"
 slidesurl: 'http://youngpyy.github.io/files/Slides-Alliance Formation.pdf'
 paperurl: 'http://youngpyy.github.io/files/2026-ITEM-Endogenous Resilience.pdf'
-citation: "Shao, X., Wang, G., Peng, Y., Wu, Z., & Xu, D. (2026). Endogenous Resilience: Yield-Driven Portfolio in Semiconductor Supply Chains.  <i>IEEE Transactions on Engineering Management.</i>.  https://doi.org/10.1109/TEM.2026.3709585"
+citation: "Shao, X., Wang, G., Peng, Y., Wu, Z., & Xu, D. (2026). Endogenous Resilience: Yield-Driven Portfolio in Semiconductor Supply Chains.  <i>IEEE Transactions on Engineering Management.</i>, 73, 3981-3995  https://doi.org/10.1109/TEM.2026.3709585"
 authors: "Xiaoyu Shao, Guihao Wang, Yangyang Peng, Zijun Wu, Dachuan Xu"
 ---
 
